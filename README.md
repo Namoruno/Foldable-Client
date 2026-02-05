@@ -1,1 +1,2 @@
-# being rebuilt from lost local project, pardon dust.
+# One of my favorite projects but no longer maintained.
+-- maybe will fix issues once textbook is finished...
